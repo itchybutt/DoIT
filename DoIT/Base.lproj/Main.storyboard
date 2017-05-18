@@ -143,7 +143,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Complete"/>
                                 <connections>
-                                    <action selector="completeTapped:" destination="NqY-lE-hY8" eventType="touchUpInside" id="tBn-8c-NTp"/>
+                                    <action selector="completeTapped:" destination="NqY-lE-hY8" eventType="touchUpInside" id="gko-Ch-Ipw"/>
                                 </connections>
                             </button>
                         </subviews>

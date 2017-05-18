@@ -14,7 +14,6 @@
 		48FB80E51EC8CE0600399761 /* DoIT.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 48FB80E31EC8CE0600399761 /* DoIT.xcdatamodeld */; };
 		48FB80E71EC8CE0600399761 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48FB80E61EC8CE0600399761 /* Assets.xcassets */; };
 		48FB80EA1EC8CE0600399761 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48FB80E81EC8CE0600399761 /* LaunchScreen.storyboard */; };
-		48FB80F21EC8D5EE00399761 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48FB80F11EC8D5EE00399761 /* Task.swift */; };
 		48FB80F41EC8F73500399761 /* CreateTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48FB80F31EC8F73500399761 /* CreateTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +27,6 @@
 		48FB80E61EC8CE0600399761 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		48FB80E91EC8CE0600399761 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		48FB80EB1EC8CE0600399761 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		48FB80F11EC8D5EE00399761 /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		48FB80F31EC8F73500399761 /* CreateTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,7 +64,6 @@
 				48FB80DE1EC8CE0600399761 /* TasksViewController.swift */,
 				48FB80F31EC8F73500399761 /* CreateTaskViewController.swift */,
 				489F4DE21ECB7A1E006594D9 /* CompleteTaskViewController.swift */,
-				48FB80F11EC8D5EE00399761 /* Task.swift */,
 				48FB80E01EC8CE0600399761 /* Main.storyboard */,
 				48FB80E61EC8CE0600399761 /* Assets.xcassets */,
 				48FB80E81EC8CE0600399761 /* LaunchScreen.storyboard */,
@@ -148,7 +145,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				48FB80F21EC8D5EE00399761 /* Task.swift in Sources */,
 				48FB80DF1EC8CE0600399761 /* TasksViewController.swift in Sources */,
 				489F4DE31ECB7A1E006594D9 /* CompleteTaskViewController.swift in Sources */,
 				48FB80E51EC8CE0600399761 /* DoIT.xcdatamodeld in Sources */,
